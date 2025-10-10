@@ -50,7 +50,7 @@ This ensures that training and inference APIs remain consistent regardless of th
 4. Run the script `demo.ipynb` in Pycharm or Jupyter Notebook to see the training 
 and evaluation of all models. 
 
-5. Follow the on-screen menu and enjoy!
+5. Follow the script in `demo.ipynb` for downloading data, train and evaluate each model.
 
 
 ### Compare results
