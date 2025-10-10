@@ -45,7 +45,7 @@ This ensures that training and inference APIs remain consistent regardless of th
    ```
 3. Install the required libraries:
    ```bash
-   pip install -rm requirements.txt
+   pip install -r requirements.txt
    ```
 4. Run the script `demo.ipynb` in Pycharm or Jupyter Notebook to see the training 
 and evaluation of all models. 
