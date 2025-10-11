@@ -211,3 +211,5 @@ dataset/
 animals10/
 ner_task/ner_model/ner_model_out/
 
+kaggle.json
+
